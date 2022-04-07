@@ -1,1 +1,1 @@
-juego pltaformas en 2D, creado en Unity
+juego plataformas en 2D, creado en Unity
