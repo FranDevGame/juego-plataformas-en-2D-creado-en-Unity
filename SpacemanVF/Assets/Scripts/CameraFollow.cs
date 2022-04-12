@@ -15,8 +15,7 @@ public class CameraFollow : MonoBehaviour
 
     public void Awake()
     {
-        Application.targetFrameRate = 60; /*Con la clase Application. y la variable targetFrameRate
-                                           * elefimos al ratio de frames por segundos que correrá el juego.*/
+        
     }
     // Start is called before the first frame update
     void Start()

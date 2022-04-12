@@ -47,6 +47,8 @@ public class GameManager : MonoBehaviour
             sharedInstance = this;
         }
 
+        Application.targetFrameRate = 60; /*Con la clase Application. y la variable targetFrameRate
+                                           * elegimos al ratio de frames por segundos que correrá el juego.*/
     }
 
     // Start is called before the first frame update
