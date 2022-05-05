@@ -1,7 +1,0 @@
-﻿[*.cs]
-
-# IDE0052: Quitar miembros privados no leídos
-dotnet_diagnostic.IDE0052.severity = none
-
-# IDE0040: Agregar modificadores de accesibilidad
-dotnet_style_require_accessibility_modifiers = never
